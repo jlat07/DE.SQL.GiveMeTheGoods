@@ -1,0 +1,1 @@
+SELECT * FROM Courses WHERE CourseName NOT BETWEEN 'ColdFusion' AND 'Python' ASC;
